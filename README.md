@@ -7,6 +7,7 @@
 
 Como jogar:
 W A S D - Move raquete esquerda
+
 Setas - Move raquete direita
 
 ![Screenshot](gamewallpaper.png)
