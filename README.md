@@ -6,6 +6,7 @@
 * Corrigir bug da bolinha ficar atrás da raquete marcando pontos infinitos
 
 Como jogar:
+
 W A S D - Move raquete esquerda
 
 Setas - Move raquete direita
